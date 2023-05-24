@@ -43,3 +43,25 @@ body {
     line-height: 29px;
     color: #4A5568;
 }
+
+.card-1 {
+    padding-left: 55px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+    /* 800 */
+
+    color: #2D3748;
+}
+
+.card-1-p {
+    padding-left: 55px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    /* 600 */
+
+    color: #718096
+}
