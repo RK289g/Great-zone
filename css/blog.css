@@ -41,3 +41,30 @@ body {
 
     color: #2D3748;
 }
+
+.text-section {
+    margin-left: 105px;
+    margin-right: 105px;
+}
+
+.p-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* 600 */
+
+    color: #718096;
+}
+
+.text-span {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* 800 */
+
+    color: #2D3748;
+
+}
