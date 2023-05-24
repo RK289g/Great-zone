@@ -65,3 +65,56 @@ body {
 
     color: #718096
 }
+
+.multi-card-title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    /* 800 */
+
+    color: #2D3748;
+}
+
+.multi-card-text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    /* 600 */
+
+    color: #718096;
+}
+
+.multi-card-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    /* 600 */
+
+    color: #718096;
+}
+
+.bottom-card {
+    background-color: #F7FAFC;
+
+}
+
+.bottom-card-h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.bottom-card-p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* 600 */
+
+    color: #718096;
+}
